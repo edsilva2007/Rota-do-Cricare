@@ -11,15 +11,18 @@
         android:theme="@style/AppTheme">
         <activity android:name=".turismo.Turismo"></activity>
         <activity android:name=".historia.Historia" />
-        <activity android:name=".geografia.Geografia" />
+        <activity android:name=".geografia.Geografia">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity android:name=".geografia.Clima" />
         <activity android:name=".eventos.Eventos" />
         <activity android:name=".culinaria.Culinaria" />
         <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 
