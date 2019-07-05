@@ -1,0 +1,4 @@
+#Fri Jun 14 20:39:57 ART 2019
+base.0=E\:\\Drive\\Docencia\\RotadoCricare\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
