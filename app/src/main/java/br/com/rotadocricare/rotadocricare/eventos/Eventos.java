@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import br.com.rotadocricare.rotadocricare.R;
+
 public class Eventos extends AppCompatActivity {
 
     @Override
