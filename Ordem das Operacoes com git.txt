@@ -1,0 +1,9 @@
+1 - git pull
+
+2 - Realiza as alterações em seu código
+
+3 - git add .
+
+4 - git commit -m "Mensagem informando o que foi alterado"
+
+5 - git push 
