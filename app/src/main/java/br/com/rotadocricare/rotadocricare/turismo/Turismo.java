@@ -22,7 +22,7 @@ public class Turismo extends AppCompatActivity {
     ListView listView;
     String mTitle[] = {"Igreja Velha", "Porto", "Guriri", "Barra Nova", "Urussuquara", "Biquinha"};
     String mDescription[] = {"Patrimonio Historico da Cidade", "Construções antigas", "Praia da cidade ", "Distrito do Municipio", "Praia da cidade", "Fonte de agua"};
-    int images[] = {R.drawable.igreja, R.drawable.porto, R.drawable.guriri, R.drawable.barranova, R.drawable.urussuquara, R.drawable.biquinha};
+    int images[] = {R.drawable.img1_5, R.drawable.img1_4, R.drawable.img1_2, R.drawable.img1_2, R.drawable.img1_3, R.drawable.img1_5};
 
 
     @Override

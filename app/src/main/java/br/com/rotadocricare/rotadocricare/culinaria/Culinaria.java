@@ -28,7 +28,7 @@ public class Culinaria extends AppCompatActivity {
         ListView listView;
         final String mTitle[] = {"Moqueca", "Beijú", "Paelha", "Casquinha de Siri", "Chimango"};
         String mDescription[] = {"Saiba mais sobre a moqueca da cidade", "Saiba mais sobre o beijú da cidade", "Saiba mais sobre a paelha da cidade", "Saiba mais sobre a casquinha de siri da cidade", "Saiba mais sobre o chimango da cidade"};
-        int images[] = {R.drawable.moqueca, R.drawable.beiju, R.drawable.paelha, R.drawable.casquinha, R.drawable.chimango};
+        int images[] = {R.drawable.img1_1, R.drawable.img1_2, R.drawable.img1_3, R.drawable.img1_4, R.drawable.img1_5};
 
         listView = findViewById(R.id.listView);
 
