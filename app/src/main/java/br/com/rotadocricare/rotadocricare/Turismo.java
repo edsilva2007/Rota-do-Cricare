@@ -1,4 +1,4 @@
-package com.example.modelorotadocricare;
+package br.com.rotadocricare.rotadocricare;
 
 import androidx.appcompat.app.AppCompatActivity;
 

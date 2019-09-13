@@ -14,7 +14,7 @@
         <activity android:name=".geografia.Geografia">
 
         </activity>
-        <activity android:name=".MainActivity2">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,7 +25,7 @@
         <activity android:name=".geografia.Clima" />
         <activity android:name=".eventos.Eventos" />
         <activity android:name=".culinaria.Culinaria" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity2">
 
         </activity>
     </application>
